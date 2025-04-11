@@ -9,7 +9,7 @@ class TpJenkinsSpringBootAppApplicationTests {
 	@Test
 	void contextLoads() {
 		System.out.println("it is a test class");
-		assertEquals(true , true);
+		assertEquals(true , true); 
 		
 	}
 
